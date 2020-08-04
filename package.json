@@ -1,0 +1,33 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html --no-cache --no-autoinstall --port 1000",
+    "build": "parcel build src/index.html --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarimarton/game.git"
+  },
+  "keywords": [],
+  "author": "Marton Sari <sarimarton@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarimarton/game/issues"
+  },
+  "homepage": "https://github.com/sarimarton/game#readme",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "prettier": "^2.0.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.9.7",
+    "xstate": "^4.11.0"
+  },
+  "browserslist": [
+    "last 5 Chrome versions"
+  ]
+}
