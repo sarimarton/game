@@ -21,11 +21,13 @@
   "dependencies": {
     "@types/react": "^16.9.44",
     "@types/react-dom": "^16.9.8",
+    "@types/styled-components": "^5.1.2",
     "@xstate/react": "^0.8.1",
     "parcel": "^1.12.4",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1",
     "typescript": "^3.9.7",
     "view": "^1.1.1",
     "xstate": "^4.11.0"
