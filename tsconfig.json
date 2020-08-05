@@ -2,10 +2,11 @@
   "compilerOptions": {
     "baseUrl": ".",
     "jsx": "react",
-    // "moduleResolution": "Node",
+    "moduleResolution": "Node",
     "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true
-    // "strict": true
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "target": "esnext"
   },
   "exclude": ["node_modules"],
   "include": ["src/**/*"]
