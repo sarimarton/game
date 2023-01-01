@@ -23,7 +23,7 @@
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.2",
     "@xstate/react": "^0.8.1",
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
